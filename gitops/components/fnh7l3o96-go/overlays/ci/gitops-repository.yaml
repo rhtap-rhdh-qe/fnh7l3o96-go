@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fnh7l3o96-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fnh7l3o96-go-gitops
